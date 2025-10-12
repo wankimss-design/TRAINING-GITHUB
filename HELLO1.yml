@@ -6,6 +6,6 @@ jobs:
   say-hello:
     runs-on: ubuntu-latest
     steps:
-      - name: HELLO1.yml
+      - name: Hello Action
         run: echo "Hello from GitHub Actions "
 
